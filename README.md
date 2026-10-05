@@ -18,7 +18,7 @@
 
 | 作品 | 概要 | 技術 | デモ |
 | :-- | :-- | :-- | :-- |
-| [chil-terrace-order](https://github.com/kouki-takezawa/chil-terrace-order) | 飲食店向けQRコード注文・厨房管理システム。客のスマホ注文から注文管理、売上分析、シフト・予約表まで | Next.js / Prisma / PostgreSQL / Playwright | [開く](https://chil-terrace-order.vercel.app) |
+| [hotsand-order](https://github.com/kouki-takezawa/hotsand-order) | ホットサンド店向けQRコード注文システム。客のスマホ注文、受け取り/配達、注文管理、売上分析、Web Push通知 | Next.js / Prisma / PostgreSQL / Playwright | [開く](https://hotsand-order.vercel.app) |
 | [enoden-walk](https://github.com/kouki-takezawa/enoden-walk) | 江ノ電・鎌倉高校前を人物を操作して歩き回れる3Dウェブアプリ。国土交通省 PLATEAU / OpenStreetMap のデータから生成 | Three.js / Vite / Blender | [開く](https://enoden-walk.vercel.app) |
 | [michinoeki-stamp-rally](https://github.com/kouki-takezawa/michinoeki-stamp-rally) | 全国1,231駅の道の駅スタンプラリーPWA。地図・チェックイン・制覇率・フレンド機能 | React / Supabase / Leaflet | [開く](https://michinoeki-stamp-rally.vercel.app) |
 | [tochigi-farm-market](https://github.com/kouki-takezawa/tochigi-farm-market) | 全国の農家と買い手をつなぐ直売マルシェ。サーバーレス構成で運用コストをほぼ0円に | Cloudflare Pages / Supabase / R2 | [開く](https://tochigi-farm-market.pages.dev) |
