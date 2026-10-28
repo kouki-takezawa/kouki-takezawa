@@ -20,6 +20,7 @@
 | :-- | :-- | :-- | :-- |
 | [hotsand-order](https://github.com/kouki-takezawa/hotsand-order) | ホットサンド店向けQRコード注文システム。客のスマホ注文、受け取り/配達、注文管理、売上分析、Web Push通知 | Next.js / Prisma / PostgreSQL / Playwright | [開く](https://hotsand-order.vercel.app) |
 | [enoden-walk](https://github.com/kouki-takezawa/enoden-walk) | 江ノ電・鎌倉高校前を人物を操作して歩き回れる3Dウェブアプリ。国土交通省 PLATEAU / OpenStreetMap のデータから生成 | Three.js / Vite / Blender | [開く](https://enoden-walk.vercel.app) |
+| [popup-art-book](https://github.com/kouki-takezawa/popup-art-book) | 名画10作品が見開きごとに紙の立体で飛び出す絵本。画像ファイルを使わず、絵も紙の部品もすべてコードで描画 | Three.js(ビルドなし) | [開く](https://popup-art-book.vercel.app) |
 | [michinoeki-stamp-rally](https://github.com/kouki-takezawa/michinoeki-stamp-rally) | 全国1,231駅の道の駅スタンプラリーPWA。地図・チェックイン・制覇率・フレンド機能 | React / Supabase / Leaflet | [開く](https://michinoeki-stamp-rally.vercel.app) |
 | [tochigi-farm-market](https://github.com/kouki-takezawa/tochigi-farm-market) | 全国の農家と買い手をつなぐ直売マルシェ。サーバーレス構成で運用コストをほぼ0円に | Cloudflare Pages / Supabase / R2 | [開く](https://tochigi-farm-market.pages.dev) |
 | [income-management-web](https://github.com/kouki-takezawa/income-management-web) | 給与・残業・賞与・有給・家計簿・資産推移をまとめて管理。手取り概算、CSV/PDF出力 | Next.js / Prisma / PostgreSQL | [開く](https://nenshu-kanri-web.vercel.app) |
